@@ -5,34 +5,34 @@ Hi there! I'm an electrical and computer science engineer specializing in embedd
 As an embedded software engineer, I work with various programming languages on a daily basis. However, I realized that Python is becoming increasingly important in this field and wanted to expand my skillset to include it. The 100-day bootcamp seemed like the perfect opportunity to do so, as it provides an intensive, project-based approach to learning.
 
 # Learning Topics :
-..* Variables
-..* Data Types
-..* Flow Control
-..* Logical Operators
-..* Loops
-..* Functions
-..* Dictionaries, Nesting
-..* Variable Scopes
-..* OOP
-..* Working with Files
-..* JSON Data
+..* Variables<br />
+..* Data Types<br />
+..* Flow Control<br />
+..* Logical Operators<br />
+..* Loops<br />
+..* Functions<br />
+..* Dictionaries, Nesting<br />
+..* Variable Scopes<br />
+..* OOP<br />
+..* Working with Files<br />
+..* JSON Data<br />
 
 # Libraries :
-..* Turtle
-..* Pandas
-..* Tkinter
-..* Flask
+..* Turtle<br />
+..* Pandas<br />
+..* Tkinter<br />
+..* Flask<br />
 ..* 
 
 # Projects :
 ## Easy Projects :
-..* Hangman Game
-..* Ceasar Cipher
+..* Hangman Game<br />
+..* Ceasar Cipher<br />
 
 ## Intermidiate Projects :
-..* 
-..* 
+..* <br />
+..* <br />
 
 ## Advanced Projects :
-..* 
-..* 
+..* <br />
+..* <br />
