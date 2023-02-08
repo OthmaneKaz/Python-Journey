@@ -28,9 +28,12 @@ As an embedded software engineer, I work with various programming languages on a
 ## Easy Projects :
 * Hangman Game<br />
 * Ceasar Cipher<br />
+* Number Guessing Game<br />
+* Blackjack<br />
+* Secret Auction<br />
 
 ## Intermidiate Projects :
-* <br />
+* Coffee Machine (OOP)<br />
 * <br />
 
 ## Advanced Projects :
