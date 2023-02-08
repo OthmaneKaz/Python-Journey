@@ -15,6 +15,7 @@ As an embedded software engineer, I work with various programming languages on a
 * Variable Scopes<br />
 * OOP<br />
 * Working with Files<br />
+* Working with CSV<br />
 * JSON Data<br />
 
 # Libraries :
