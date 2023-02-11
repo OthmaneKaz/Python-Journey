@@ -32,12 +32,19 @@ while state:
     """detect collision with food"""
     if snake.head.distance(food) < 17.5:
         food.refresh()
+        snake.extend()
         scoreboard.increase_score()
 
     """detect collision with wall"""
     if snake.head.xcor() > 285 or snake.head.xcor() < -285 or snake.head.ycor() > 285 or snake.head.ycor() < -285:
         state = False
         scoreboard.gameover()
+
+    """detect collision with tail"""
+    for seg in snake.segments[1:]:
+        if snake.head.distance(seg) < 10:
+            state = False
+            scoreboard.gameover()
 
 """Onclick Exit Condition"""
 screen.exitonclick()
