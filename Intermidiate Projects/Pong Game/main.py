@@ -21,11 +21,12 @@ screen.onkey(r_paddle.go_down, "Down")
 screen.onkey(l_paddle.go_up, "w")
 screen.onkey(l_paddle.go_down, "s")
 
+
 state = True
 while state:
+    time.sleep(ball.move_speed)
     screen.update()
     ball.move()
-    time.sleep(0.1)
 
     """detect collision with wall"""
     if ball.ycor() > 280 or ball.ycor() < -280:
@@ -44,7 +45,5 @@ while state:
     if ball.xcor() < -380:
         ball.reset_pos()
         score.r_point()
-
-
 
 screen.exitonclick()
