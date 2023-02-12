@@ -34,7 +34,15 @@ As an embedded software engineer, I work with various programming languages on a
 * Secret Auction<br />
 
 ## Intermidiate Projects :
+* Coffee Machine<br />
 * Coffee Machine (OOP)<br />
+* Hirst Painting<br />
+* Pong Game (OOP)<br />
+* Quiz Game (OOP)<br />
+* Snake Game (OOP)<br />
+* Turtle Race<br />
+* Turtle Crossing Game (OOP)<br />
+* <br />
 * <br />
 
 ## Advanced Projects :
